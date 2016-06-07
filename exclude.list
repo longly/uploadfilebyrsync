@@ -1,0 +1,7 @@
+/include.list
+/exclude.list
+/upload.sh
+/www/*
+*.db
+.git/
+.DS_Store
